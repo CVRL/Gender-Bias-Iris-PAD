@@ -16,7 +16,7 @@ This paper investigates whether there are gender-specific differences in iris im
 <a name="dataset"/></a>
 ### Dataset of Gender Bias Iris PAD
 
-CSV files containing train and test sets used for training models for each experiment (E1, E3, and E4) can be find inside of CSVs folder.
+CSV files containing train and test sets used for training models for each experiment (E1, E3, and E4) can be find inside of CSVs folder[https://github.com/CVRL/Gender-Bias-Iris-PAD/tree/main/CSVs].
 Instructions on how to request a copy of the dataset will be added to the [CVRL webpage](https://cvrl.nd.edu/projects/data/).
 
 <a name="citation"/></a>
