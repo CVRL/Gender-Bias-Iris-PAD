@@ -28,6 +28,6 @@ If you find this work useful in your research, please cite the following paper:
       title={Is There Evidence of Gender Bias in Iris Presentation Attack Detection Approaches?}, 
       author={Mahsa Mitcheff, Siamul K. Khan, Patrick J. Flynn, Kevib Bowyer, and Adam Czajka},
       year={2026},
-      booktitle={IEEE Transactions on Biometrics, Behavior, and Identity Science},
+      journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
 }
 ```
