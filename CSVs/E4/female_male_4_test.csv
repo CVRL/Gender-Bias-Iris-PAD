@@ -1,0 +1,673 @@
+,subject_id,eye,sensor,gender,image_location,is_bona_fide,contacts_brand
+0,nd1S07215,Right,AD100,Female,/BXGRID/50/1198255.png,True,None
+1,nd1S07215,Right,AD100,Female,/BXGRID/50/1198252.png,True,None
+2,nd1S07215,Right,AD100,Female,/BXGRID/50/1198603.png,True,None
+3,nd1S07215,Right,AD100,Female,/BXGRID/50/1197965.png,True,None
+4,nd1S07215,Right,AD100,Female,/BXGRID/50/1198434.png,True,None
+5,nd1S07215,Right,AD100,Female,/BXGRID/50/1198433.png,True,None
+6,nd1S06338,Right,AD100,Female,/BXGRID/25/675785.png,True,None
+7,nd1S06338,Right,AD100,Female,/BXGRID/25/675783.png,True,None
+8,nd1S06338,Right,AD100,Female,/BXGRID/37/938519.png,True,None
+9,nd1S06338,Right,AD100,Female,/BXGRID/37/938521.png,True,None
+10,nd1S06338,Right,AD100,Female,/BXGRID/37/938520.png,True,None
+11,nd1S06338,Right,AD100,Female,/BXGRID/25/675784.png,True,None
+12,nd1S06073,Right,AD100,Female,/BXGRID/25/674646.png,True,None
+13,nd1S06073,Right,AD100,Female,/BXGRID/26/698089.png,True,None
+14,nd1S06073,Right,AD100,Female,/BXGRID/34/872767.png,True,None
+15,nd1S06073,Right,AD100,Female,/BXGRID/28/729766.png,True,None
+16,nd1S06073,Right,AD100,Female,/BXGRID/28/729765.png,True,None
+17,nd1S06073,Right,AD100,Female,/BXGRID/25/674644.png,True,None
+18,nd1S05731,Right,AD100,Female,/BXGRID/30/793729.png,True,None
+19,nd1S05731,Right,AD100,Female,/BXGRID/28/727394.png,True,None
+20,nd1S05731,Right,AD100,Female,/BXGRID/28/727393.png,True,None
+21,nd1S05731,Right,AD100,Female,/BXGRID/28/727396.png,True,None
+22,nd1S05731,Right,AD100,Female,/BXGRID/30/793725.png,True,None
+23,nd1S05731,Right,AD100,Female,/BXGRID/26/705737.png,True,None
+24,nd1S06498,Right,LG4000,Female,/BXGRID/28/733181.png,True,None
+25,nd1S06498,Right,LG4000,Female,/BXGRID/27/710035.png,True,None
+26,nd1S06498,Right,LG4000,Female,/BXGRID/28/733178.png,True,None
+27,nd1S06498,Right,LG4000,Female,/BXGRID/27/710033.png,True,None
+28,nd1S06498,Right,LG4000,Female,/BXGRID/28/733182.png,True,None
+29,nd1S06498,Right,LG4000,Female,/BXGRID/28/733177.png,True,None
+30,nd1S05421,Right,LG4000,Female,/BXGRID/9/279779.png,True,None
+31,nd1S05421,Right,LG4000,Female,/BXGRID/9/279781.png,True,None
+32,nd1S05421,Right,LG4000,Female,/BXGRID/27/709670.png,True,None
+33,nd1S05421,Right,LG4000,Female,/BXGRID/27/709668.png,True,None
+34,nd1S05421,Right,LG4000,Female,/BXGRID/28/731454.png,True,None
+35,nd1S05421,Right,LG4000,Female,/BXGRID/31/800414.png,True,None
+36,nd1S06979,Right,LG4000,Female,/BXGRID/47/1134792.png,True,None
+37,nd1S06979,Right,LG4000,Female,/BXGRID/47/1134790.png,True,None
+38,nd1S06979,Right,LG4000,Female,/BXGRID/47/1134791.png,True,None
+39,nd1S06979,Right,LG4000,Female,/BXGRID/47/1134789.png,True,None
+40,nd1S06979,Right,LG4000,Female,/BXGRID/47/1134788.png,True,None
+41,nd1S06979,Right,LG4000,Female,/BXGRID/47/1134787.png,True,None
+42,nd1S06034,Right,LG4000,Female,/BXGRID/27/708113.png,True,None
+43,nd1S06034,Right,LG4000,Female,/BXGRID/22/609428.png,True,None
+44,nd1S06034,Right,LG4000,Female,/BXGRID/36/905687.png,True,None
+45,nd1S06034,Right,LG4000,Female,/BXGRID/28/753205.png,True,None
+46,nd1S06034,Right,LG4000,Female,/BXGRID/27/708115.png,True,None
+47,nd1S06034,Right,LG4000,Female,/BXGRID/36/905688.png,True,None
+48,nd1S06245,Left,AD100,Female,/BXGRID/39/988136.png,True,None
+49,nd1S06245,Left,AD100,Female,/BXGRID/25/673583.png,True,None
+50,nd1S06245,Left,AD100,Female,/BXGRID/43/1065545.png,True,None
+51,nd1S06245,Left,AD100,Female,/BXGRID/43/1065542.png,True,None
+52,nd1S06245,Left,AD100,Female,/BXGRID/42/1035419.png,True,None
+53,nd1S06245,Left,AD100,Female,/BXGRID/32/821206.png,True,None
+54,nd1S06139,Left,AD100,Female,/BXGRID/27/709150.png,True,None
+55,nd1S06139,Left,AD100,Female,/BXGRID/28/726744.png,True,None
+56,nd1S06139,Left,AD100,Female,/BXGRID/26/695099.png,True,None
+57,nd1S06139,Left,AD100,Female,/BXGRID/27/709147.png,True,None
+58,nd1S06139,Left,AD100,Female,/BXGRID/26/695102.png,True,None
+59,nd1S06139,Left,AD100,Female,/BXGRID/28/726726.png,True,None
+60,nd1S06798,Left,AD100,Female,/BXGRID/48/1166801.png,True,None
+61,nd1S06798,Left,AD100,Female,/BXGRID/49/1169193.png,True,None
+62,nd1S06798,Left,AD100,Female,/BXGRID/48/1165985.png,True,None
+63,nd1S06798,Left,AD100,Female,/BXGRID/49/1169189.png,True,None
+64,nd1S06798,Left,AD100,Female,/BXGRID/48/1166426.png,True,None
+65,nd1S06798,Left,AD100,Female,/BXGRID/48/1166427.png,True,None
+66,nd1S07308,Left,AD100,Female,/BXGRID/51/1202366.png,True,None
+67,nd1S07308,Left,AD100,Female,/BXGRID/51/1201398.png,True,None
+68,nd1S07308,Left,AD100,Female,/BXGRID/51/1202369.png,True,None
+69,nd1S07308,Left,AD100,Female,/BXGRID/51/1202368.png,True,None
+70,nd1S07308,Left,AD100,Female,/BXGRID/51/1201402.png,True,None
+71,nd1S07308,Left,AD100,Female,/BXGRID/51/1202365.png,True,None
+72,nd1S06471,Left,LG4000,Female,/BXGRID/27/707031.png,True,None
+73,nd1S06471,Left,LG4000,Female,/BXGRID/28/732337.png,True,None
+74,nd1S06471,Left,LG4000,Female,/BXGRID/28/732341.png,True,None
+75,nd1S06471,Left,LG4000,Female,/BXGRID/34/871247.png,True,None
+76,nd1S06471,Left,LG4000,Female,/BXGRID/28/732340.png,True,None
+77,nd1S06471,Left,LG4000,Female,/BXGRID/34/871246.png,True,None
+78,nd1S06815,Left,LG4000,Female,/BXGRID/40/997037.png,True,None
+79,nd1S06815,Left,LG4000,Female,/BXGRID/39/972759.png,True,None
+80,nd1S06815,Left,LG4000,Female,/BXGRID/39/972763.png,True,None
+81,nd1S06815,Left,LG4000,Female,/BXGRID/39/972760.png,True,None
+82,nd1S06815,Left,LG4000,Female,/BXGRID/40/997036.png,True,None
+83,nd1S06815,Left,LG4000,Female,/BXGRID/39/972761.png,True,None
+84,nd1S06193,Left,LG4000,Female,/BXGRID/20/578978.png,True,None
+85,nd1S06193,Left,LG4000,Female,/BXGRID/22/602082.png,True,None
+86,nd1S06193,Left,LG4000,Female,/BXGRID/20/578980.png,True,None
+87,nd1S06193,Left,LG4000,Female,/BXGRID/20/578982.png,True,None
+88,nd1S06193,Left,LG4000,Female,/BXGRID/22/602078.png,True,None
+89,nd1S06193,Left,LG4000,Female,/BXGRID/22/602080.png,True,None
+90,nd1S05627,Left,LG4000,Female,/BXGRID/14/403547.png,True,None
+91,nd1S05627,Left,LG4000,Female,/BXGRID/4/253920.png,True,None
+92,nd1S05627,Left,LG4000,Female,/BXGRID/4/253916.png,True,None
+93,nd1S05627,Left,LG4000,Female,/BXGRID/14/403549.png,True,None
+94,nd1S05627,Left,LG4000,Female,/BXGRID/4/253918.png,True,None
+95,nd1S05627,Left,LG4000,Female,/BXGRID/14/403551.png,True,None
+96,nd1S05616,Right,AD100,Male,/BXGRID/37/944112.png,True,None
+97,nd1S05616,Right,AD100,Male,/BXGRID/35/904534.png,True,None
+98,nd1S05616,Right,AD100,Male,/BXGRID/44/1089792.png,True,None
+99,nd1S05616,Right,AD100,Male,/BXGRID/42/1035407.png,True,None
+100,nd1S05616,Right,AD100,Male,/BXGRID/32/823010.png,True,None
+101,nd1S05616,Right,AD100,Male,/BXGRID/40/992476.png,True,None
+102,nd1S06044,Right,AD100,Male,/BXGRID/31/796828.png,True,None
+103,nd1S06044,Right,AD100,Male,/BXGRID/34/872618.png,True,None
+104,nd1S06044,Right,AD100,Male,/BXGRID/30/767072.png,True,None
+105,nd1S06044,Right,AD100,Male,/BXGRID/30/767073.png,True,None
+106,nd1S06044,Right,AD100,Male,/BXGRID/26/697061.png,True,None
+107,nd1S06044,Right,AD100,Male,/BXGRID/34/872621.png,True,None
+108,nd1S06494,Right,AD100,Male,/BXGRID/33/860936.png,True,None
+109,nd1S06494,Right,AD100,Male,/BXGRID/35/904788.png,True,None
+110,nd1S06494,Right,AD100,Male,/BXGRID/35/904785.png,True,None
+111,nd1S06494,Right,AD100,Male,/BXGRID/32/821412.png,True,None
+112,nd1S06494,Right,AD100,Male,/BXGRID/32/821411.png,True,None
+113,nd1S06494,Right,AD100,Male,/BXGRID/33/860937.png,True,None
+114,nd1S05674,Right,AD100,Male,/BXGRID/28/727517.png,True,None
+115,nd1S05674,Right,AD100,Male,/BXGRID/26/705719.png,True,None
+116,nd1S05674,Right,AD100,Male,/BXGRID/28/727514.png,True,None
+117,nd1S05674,Right,AD100,Male,/BXGRID/28/727516.png,True,None
+118,nd1S05674,Right,AD100,Male,/BXGRID/26/705717.png,True,None
+119,nd1S05674,Right,AD100,Male,/BXGRID/28/727515.png,True,None
+120,nd1S05853,Right,LG4000,Male,/BXGRID/32/826139.png,True,None
+121,nd1S05853,Right,LG4000,Male,/BXGRID/26/705357.png,True,None
+122,nd1S05853,Right,LG4000,Male,/BXGRID/32/826142.png,True,None
+123,nd1S05853,Right,LG4000,Male,/BXGRID/22/610142.png,True,None
+124,nd1S05853,Right,LG4000,Male,/BXGRID/42/1042863.png,True,None
+125,nd1S05853,Right,LG4000,Male,/BXGRID/25/683122.png,True,None
+126,nd1S06096,Right,LG4000,Male,/BXGRID/18/524406.png,True,None
+127,nd1S06096,Right,LG4000,Male,/BXGRID/26/705765.png,True,None
+128,nd1S06096,Right,LG4000,Male,/BXGRID/36/908310.png,True,None
+129,nd1S06096,Right,LG4000,Male,/BXGRID/34/864635.png,True,None
+130,nd1S06096,Right,LG4000,Male,/BXGRID/26/705763.png,True,None
+131,nd1S06096,Right,LG4000,Male,/BXGRID/34/864638.png,True,None
+132,nd1S06939,Right,LG4000,Male,/BXGRID/44/1087516.png,True,None
+133,nd1S06939,Right,LG4000,Male,/BXGRID/44/1087518.png,True,None
+134,nd1S06939,Right,LG4000,Male,/BXGRID/44/1087515.png,True,None
+135,nd1S06939,Right,LG4000,Male,/BXGRID/44/1087514.png,True,None
+136,nd1S06939,Right,LG4000,Male,/BXGRID/44/1087519.png,True,None
+137,nd1S06939,Right,LG4000,Male,/BXGRID/44/1087517.png,True,None
+138,nd1S05697,Right,LG4000,Male,/BXGRID/28/732989.png,True,None
+139,nd1S05697,Right,LG4000,Male,/BXGRID/27/708517.png,True,None
+140,nd1S05697,Right,LG4000,Male,/BXGRID/28/755017.png,True,None
+141,nd1S05697,Right,LG4000,Male,/BXGRID/21/586364.png,True,None
+142,nd1S05697,Right,LG4000,Male,/BXGRID/46/1127638.png,True,None
+143,nd1S05697,Right,LG4000,Male,/BXGRID/25/676645.png,True,None
+144,nd1S05379,Left,AD100,Male,/BXGRID/28/726898.png,True,None
+145,nd1S05379,Left,AD100,Male,/BXGRID/37/943978.png,True,None
+146,nd1S05379,Left,AD100,Male,/BXGRID/47/1133775.png,True,None
+147,nd1S05379,Left,AD100,Male,/BXGRID/35/897845.png,True,None
+148,nd1S05379,Left,AD100,Male,/BXGRID/44/1089812.png,True,None
+149,nd1S05379,Left,AD100,Male,/BXGRID/37/943987.png,True,None
+150,nd1S06671,Left,AD100,Male,/BXGRID/35/898017.png,True,None
+151,nd1S06671,Left,AD100,Male,/BXGRID/33/861770.png,True,None
+152,nd1S06671,Left,AD100,Male,/BXGRID/33/861772.png,True,None
+153,nd1S06671,Left,AD100,Male,/BXGRID/33/861773.png,True,None
+154,nd1S06671,Left,AD100,Male,/BXGRID/35/898016.png,True,None
+155,nd1S06671,Left,AD100,Male,/BXGRID/35/898015.png,True,None
+156,nd1S05766,Left,AD100,Male,/BXGRID/26/704810.png,True,None
+157,nd1S05766,Left,AD100,Male,/BXGRID/42/1041961.png,True,None
+158,nd1S05766,Left,AD100,Male,/BXGRID/26/704808.png,True,None
+159,nd1S05766,Left,AD100,Male,/BXGRID/33/863310.png,True,None
+160,nd1S05766,Left,AD100,Male,/BXGRID/42/1041960.png,True,None
+161,nd1S05766,Left,AD100,Male,/BXGRID/30/795137.png,True,None
+162,nd1S05492,Left,AD100,Male,/BXGRID/28/729026.png,True,None
+163,nd1S05492,Left,AD100,Male,/BXGRID/28/729044.png,True,None
+164,nd1S05492,Left,AD100,Male,/BXGRID/30/767197.png,True,None
+165,nd1S05492,Left,AD100,Male,/BXGRID/32/823168.png,True,None
+166,nd1S05492,Left,AD100,Male,/BXGRID/32/823170.png,True,None
+167,nd1S05492,Left,AD100,Male,/BXGRID/30/767198.png,True,None
+168,nd1S06768,Left,LG4000,Male,/BXGRID/37/945229.png,True,None
+169,nd1S06768,Left,LG4000,Male,/BXGRID/37/945228.png,True,None
+170,nd1S06768,Left,LG4000,Male,/BXGRID/37/945232.png,True,None
+171,nd1S06768,Left,LG4000,Male,/BXGRID/37/945230.png,True,None
+172,nd1S06768,Left,LG4000,Male,/BXGRID/37/945231.png,True,None
+173,nd1S06768,Left,LG4000,Male,/BXGRID/37/945227.png,True,None
+174,nd1S06995,Left,LG4000,Male,/BXGRID/48/1164850.png,True,None
+175,nd1S06995,Left,LG4000,Male,/BXGRID/48/1164846.png,True,None
+176,nd1S06995,Left,LG4000,Male,/BXGRID/48/1164852.png,True,None
+177,nd1S06995,Left,LG4000,Male,/BXGRID/48/1164845.png,True,None
+178,nd1S06995,Left,LG4000,Male,/BXGRID/48/1164844.png,True,None
+179,nd1S06995,Left,LG4000,Male,/BXGRID/48/1164847.png,True,None
+180,nd1S06212,Left,LG4000,Male,/BXGRID/21/594156.png,True,None
+181,nd1S06212,Left,LG4000,Male,/BXGRID/21/594144.png,True,None
+182,nd1S06212,Left,LG4000,Male,/BXGRID/20/579994.png,True,None
+183,nd1S06212,Left,LG4000,Male,/BXGRID/21/594158.png,True,None
+184,nd1S06212,Left,LG4000,Male,/BXGRID/22/609611.png,True,None
+185,nd1S06212,Left,LG4000,Male,/BXGRID/21/587021.png,True,None
+186,nd1S05899,Left,LG4000,Male,/BXGRID/19/537800.png,True,None
+187,nd1S05899,Left,LG4000,Male,/BXGRID/14/403637.png,True,None
+188,nd1S05899,Left,LG4000,Male,/BXGRID/20/580014.png,True,None
+189,nd1S05899,Left,LG4000,Male,/BXGRID/19/537798.png,True,None
+190,nd1S05899,Left,LG4000,Male,/BXGRID/20/580012.png,True,None
+191,nd1S05899,Left,LG4000,Male,/BXGRID/20/580016.png,True,None
+192,nd1S07015,Right,AD100,Female,/BXGRID/48/1159258.png,False,Cibavision_Freshlook_Colorblends
+193,nd1S07015,Right,AD100,Female,/BXGRID/48/1159245.png,False,Cibavision_Freshlook_Colorblends
+194,nd1S07015,Right,AD100,Female,/BXGRID/48/1160911.png,False,Cibavision_Freshlook_Colorblends
+195,nd1S07015,Right,AD100,Female,/BXGRID/48/1160876.png,False,Cibavision_Freshlook_Colorblends
+196,nd1S07015,Right,AD100,Female,/BXGRID/48/1159222.png,False,Cibavision_Freshlook_Colorblends
+197,nd1S07015,Right,AD100,Female,/BXGRID/48/1159256.png,False,Cibavision_Freshlook_Colorblends
+198,nd1S07015,Right,LG4000,Female,/BXGRID/47/1151930.png,False,Cibavision_Freshlook_Colorblends
+199,nd1S07015,Right,LG4000,Female,/BXGRID/47/1149103.png,False,Cibavision_Freshlook_Colorblends
+200,nd1S07015,Right,LG4000,Female,/BXGRID/47/1151974.png,False,Cibavision_Freshlook_Colorblends
+201,nd1S07015,Right,LG4000,Female,/BXGRID/48/1155469.png,False,Cibavision_Freshlook_Colorblends
+202,nd1S07015,Right,LG4000,Female,/BXGRID/47/1151931.png,False,Cibavision_Freshlook_Colorblends
+203,nd1S07015,Right,LG4000,Female,/BXGRID/47/1149078.png,False,Cibavision_Freshlook_Colorblends
+204,nd1S07014,Right,AD100,Male,/BXGRID/49/1173403.png,False,Cibavision_Freshlook_Colorblends
+205,nd1S07014,Right,AD100,Male,/BXGRID/49/1173437.png,False,Cibavision_Freshlook_Colorblends
+206,nd1S07014,Right,AD100,Male,/BXGRID/49/1173388.png,False,Cibavision_Freshlook_Colorblends
+207,nd1S07014,Right,AD100,Male,/BXGRID/49/1173402.png,False,Cibavision_Freshlook_Colorblends
+208,nd1S07014,Right,AD100,Male,/BXGRID/49/1173405.png,False,Cibavision_Freshlook_Colorblends
+209,nd1S07014,Right,AD100,Male,/BXGRID/49/1173449.png,False,Cibavision_Freshlook_Colorblends
+210,nd1S04261,Right,LG4000,Male,/BXGRID/48/1155956.png,False,Cibavision_Freshlook_Colorblends
+211,nd1S04261,Right,LG4000,Male,/BXGRID/47/1152472.png,False,Cibavision_Freshlook_Colorblends
+212,nd1S04261,Right,LG4000,Male,/BXGRID/47/1152423.png,False,Cibavision_Freshlook_Colorblends
+213,nd1S04261,Right,LG4000,Male,/BXGRID/47/1149436.png,False,Cibavision_Freshlook_Colorblends
+214,nd1S04261,Right,LG4000,Male,/BXGRID/48/1155941.png,False,Cibavision_Freshlook_Colorblends
+215,nd1S04261,Right,LG4000,Male,/BXGRID/47/1152462.png,False,Cibavision_Freshlook_Colorblends
+216,nd1S07015,Left,AD100,Female,/BXGRID/48/1157760.png,False,Cibavision_Freshlook_Colorblends
+217,nd1S07015,Left,AD100,Female,/BXGRID/48/1157761.png,False,Cibavision_Freshlook_Colorblends
+218,nd1S07015,Left,AD100,Female,/BXGRID/48/1157752.png,False,Cibavision_Freshlook_Colorblends
+219,nd1S07015,Left,AD100,Female,/BXGRID/48/1160860.png,False,Cibavision_Freshlook_Colorblends
+220,nd1S07015,Left,AD100,Female,/BXGRID/48/1157767.png,False,Cibavision_Freshlook_Colorblends
+221,nd1S07015,Left,AD100,Female,/BXGRID/48/1160855.png,False,Cibavision_Freshlook_Colorblends
+222,nd1S07015,Left,LG4000,Female,/BXGRID/47/1151861.png,False,Cibavision_Freshlook_Colorblends
+223,nd1S07015,Left,LG4000,Female,/BXGRID/47/1149024.png,False,Cibavision_Freshlook_Colorblends
+224,nd1S07015,Left,LG4000,Female,/BXGRID/47/1151864.png,False,Cibavision_Freshlook_Colorblends
+225,nd1S07015,Left,LG4000,Female,/BXGRID/47/1151887.png,False,Cibavision_Freshlook_Colorblends
+226,nd1S07015,Left,LG4000,Female,/BXGRID/47/1149008.png,False,Cibavision_Freshlook_Colorblends
+227,nd1S07015,Left,LG4000,Female,/BXGRID/47/1151898.png,False,Cibavision_Freshlook_Colorblends
+228,nd1S07014,Left,AD100,Male,/BXGRID/49/1173395.png,False,Cibavision_Freshlook_Colorblends
+229,nd1S07014,Left,AD100,Male,/BXGRID/49/1173427.png,False,Cibavision_Freshlook_Colorblends
+230,nd1S07014,Left,AD100,Male,/BXGRID/49/1173445.png,False,Cibavision_Freshlook_Colorblends
+231,nd1S07014,Left,AD100,Male,/BXGRID/49/1173377.png,False,Cibavision_Freshlook_Colorblends
+232,nd1S07014,Left,AD100,Male,/BXGRID/49/1173443.png,False,Cibavision_Freshlook_Colorblends
+233,nd1S07014,Left,AD100,Male,/BXGRID/49/1173442.png,False,Cibavision_Freshlook_Colorblends
+234,nd1S07014,Left,LG4000,Male,/BXGRID/49/1173937.png,False,Cibavision_Freshlook_Colorblends
+235,nd1S07014,Left,LG4000,Male,/BXGRID/49/1173945.png,False,Cibavision_Freshlook_Colorblends
+236,nd1S07014,Left,LG4000,Male,/BXGRID/49/1173957.png,False,Cibavision_Freshlook_Colorblends
+237,nd1S07014,Left,LG4000,Male,/BXGRID/49/1173951.png,False,Cibavision_Freshlook_Colorblends
+238,nd1S07014,Left,LG4000,Male,/BXGRID/49/1174011.png,False,Cibavision_Freshlook_Colorblends
+239,nd1S07014,Left,LG4000,Male,/BXGRID/49/1173958.png,False,Cibavision_Freshlook_Colorblends
+240,nd1S07015,Right,AD100,Female,/BXGRID/48/1160817.png,False,Coopervision_Expressionscolors
+241,nd1S07015,Right,AD100,Female,/BXGRID/48/1159159.png,False,Coopervision_Expressionscolors
+242,nd1S07015,Right,AD100,Female,/BXGRID/48/1160807.png,False,Coopervision_Expressionscolors
+243,nd1S07015,Right,AD100,Female,/BXGRID/48/1159144.png,False,Coopervision_Expressionscolors
+244,nd1S07015,Right,AD100,Female,/BXGRID/48/1159147.png,False,Coopervision_Expressionscolors
+245,nd1S07015,Right,AD100,Female,/BXGRID/48/1159146.png,False,Coopervision_Expressionscolors
+246,nd1S07015,Right,LG4000,Female,/BXGRID/47/1151784.png,False,Coopervision_Expressionscolors
+247,nd1S07015,Right,LG4000,Female,/BXGRID/47/1148933.png,False,Coopervision_Expressionscolors
+248,nd1S07015,Right,LG4000,Female,/BXGRID/47/1148951.png,False,Coopervision_Expressionscolors
+249,nd1S07015,Right,LG4000,Female,/BXGRID/48/1155314.png,False,Coopervision_Expressionscolors
+250,nd1S07015,Right,LG4000,Female,/BXGRID/47/1151821.png,False,Coopervision_Expressionscolors
+251,nd1S07015,Right,LG4000,Female,/BXGRID/47/1148935.png,False,Coopervision_Expressionscolors
+252,nd1S07013,Right,AD100,Male,/BXGRID/48/1158695.png,False,Coopervision_Expressionscolors
+253,nd1S07013,Right,AD100,Male,/BXGRID/48/1158678.png,False,Coopervision_Expressionscolors
+254,nd1S07013,Right,AD100,Male,/BXGRID/48/1160273.png,False,Coopervision_Expressionscolors
+255,nd1S07013,Right,AD100,Male,/BXGRID/48/1157344.png,False,Coopervision_Expressionscolors
+256,nd1S07013,Right,AD100,Male,/BXGRID/48/1157343.png,False,Coopervision_Expressionscolors
+257,nd1S07013,Right,AD100,Male,/BXGRID/48/1157317.png,False,Coopervision_Expressionscolors
+258,nd1S07014,Right,LG4000,Male,/BXGRID/48/1153841.png,False,Coopervision_Expressionscolors
+259,nd1S07014,Right,LG4000,Male,/BXGRID/47/1148445.png,False,Coopervision_Expressionscolors
+260,nd1S07014,Right,LG4000,Male,/BXGRID/49/1174188.png,False,Coopervision_Expressionscolors
+261,nd1S07014,Right,LG4000,Male,/BXGRID/47/1148502.png,False,Coopervision_Expressionscolors
+262,nd1S07014,Right,LG4000,Male,/BXGRID/49/1174209.png,False,Coopervision_Expressionscolors
+263,nd1S07014,Right,LG4000,Male,/BXGRID/48/1153859.png,False,Coopervision_Expressionscolors
+264,nd1S07015,Left,AD100,Female,/BXGRID/48/1160762.png,False,Coopervision_Expressionscolors
+265,nd1S07015,Left,AD100,Female,/BXGRID/48/1159118.png,False,Coopervision_Expressionscolors
+266,nd1S07015,Left,AD100,Female,/BXGRID/48/1160764.png,False,Coopervision_Expressionscolors
+267,nd1S07015,Left,AD100,Female,/BXGRID/48/1159127.png,False,Coopervision_Expressionscolors
+268,nd1S07015,Left,AD100,Female,/BXGRID/48/1160793.png,False,Coopervision_Expressionscolors
+269,nd1S07015,Left,AD100,Female,/BXGRID/48/1160767.png,False,Coopervision_Expressionscolors
+270,nd1S07015,Left,LG4000,Female,/BXGRID/48/1155236.png,False,Coopervision_Expressionscolors
+271,nd1S07015,Left,LG4000,Female,/BXGRID/48/1155248.png,False,Coopervision_Expressionscolors
+272,nd1S07015,Left,LG4000,Female,/BXGRID/48/1155220.png,False,Coopervision_Expressionscolors
+273,nd1S07015,Left,LG4000,Female,/BXGRID/47/1148883.png,False,Coopervision_Expressionscolors
+274,nd1S07015,Left,LG4000,Female,/BXGRID/47/1148877.png,False,Coopervision_Expressionscolors
+275,nd1S07015,Left,LG4000,Female,/BXGRID/47/1151713.png,False,Coopervision_Expressionscolors
+276,nd1S07014,Left,AD100,Male,/BXGRID/49/1173463.png,False,Coopervision_Expressionscolors
+277,nd1S07014,Left,AD100,Male,/BXGRID/49/1173458.png,False,Coopervision_Expressionscolors
+278,nd1S07014,Left,AD100,Male,/BXGRID/48/1157449.png,False,Coopervision_Expressionscolors
+279,nd1S07014,Left,AD100,Male,/BXGRID/48/1157436.png,False,Coopervision_Expressionscolors
+280,nd1S07014,Left,AD100,Male,/BXGRID/48/1160462.png,False,Coopervision_Expressionscolors
+281,nd1S07014,Left,AD100,Male,/BXGRID/48/1160482.png,False,Coopervision_Expressionscolors
+282,nd1S07013,Left,LG4000,Male,/BXGRID/47/1148114.png,False,Coopervision_Expressionscolors
+283,nd1S07013,Left,LG4000,Male,/BXGRID/48/1154296.png,False,Coopervision_Expressionscolors
+284,nd1S07013,Left,LG4000,Male,/BXGRID/47/1150748.png,False,Coopervision_Expressionscolors
+285,nd1S07013,Left,LG4000,Male,/BXGRID/47/1150760.png,False,Coopervision_Expressionscolors
+286,nd1S07013,Left,LG4000,Male,/BXGRID/47/1150824.png,False,Coopervision_Expressionscolors
+287,nd1S07013,Left,LG4000,Male,/BXGRID/47/1148134.png,False,Coopervision_Expressionscolors
+288,nd1S06312,Right,AD100,Female,/BXGRID/50/1181952.png,False,Clear-Lab
+289,nd1S06312,Right,AD100,Female,/BXGRID/49/1177843.png,False,Clear-Lab
+290,nd1S06312,Right,AD100,Female,/BXGRID/49/1177883.png,False,Clear-Lab
+291,nd1S06312,Right,AD100,Female,/BXGRID/50/1181936.png,False,Clear-Lab
+292,nd1S06312,Right,AD100,Female,/BXGRID/49/1177921.png,False,Clear-Lab
+293,nd1S06312,Right,AD100,Female,/BXGRID/49/1177887.png,False,Clear-Lab
+294,nd1S07015,Right,LG4000,Female,/BXGRID/50/1190295.png,False,Clear-Lab
+295,nd1S07015,Right,LG4000,Female,/BXGRID/50/1192844.png,False,Clear-Lab
+296,nd1S07015,Right,LG4000,Female,/BXGRID/50/1190303.png,False,Clear-Lab
+297,nd1S07015,Right,LG4000,Female,/BXGRID/50/1190346.png,False,Clear-Lab
+298,nd1S07015,Right,LG4000,Female,/BXGRID/50/1190473.png,False,Clear-Lab
+299,nd1S07015,Right,LG4000,Female,/BXGRID/50/1190526.png,False,Clear-Lab
+300,nd1S06017,Right,AD100,Male,/BXGRID/50/1191328.png,False,Clear-Lab
+301,nd1S06017,Right,AD100,Male,/BXGRID/49/1179983.png,False,Clear-Lab
+302,nd1S06017,Right,AD100,Male,/BXGRID/49/1180035.png,False,Clear-Lab
+303,nd1S06017,Right,AD100,Male,/BXGRID/49/1179995.png,False,Clear-Lab
+304,nd1S06017,Right,AD100,Male,/BXGRID/49/1179975.png,False,Clear-Lab
+305,nd1S06017,Right,AD100,Male,/BXGRID/50/1191350.png,False,Clear-Lab
+306,nd1S06000,Right,LG4000,Male,/BXGRID/50/1195498.png,False,Clear-Lab
+307,nd1S06000,Right,LG4000,Male,/BXGRID/50/1195501.png,False,Clear-Lab
+308,nd1S06000,Right,LG4000,Male,/BXGRID/50/1195508.png,False,Clear-Lab
+309,nd1S06000,Right,LG4000,Male,/BXGRID/49/1178243.png,False,Clear-Lab
+310,nd1S06000,Right,LG4000,Male,/BXGRID/49/1178374.png,False,Clear-Lab
+311,nd1S06000,Right,LG4000,Male,/BXGRID/50/1195317.png,False,Clear-Lab
+312,nd1S06312,Left,AD100,Female,/BXGRID/50/1181918.png,False,Clear-Lab
+313,nd1S06312,Left,AD100,Female,/BXGRID/49/1177910.png,False,Clear-Lab
+314,nd1S06312,Left,AD100,Female,/BXGRID/50/1181928.png,False,Clear-Lab
+315,nd1S06312,Left,AD100,Female,/BXGRID/50/1181882.png,False,Clear-Lab
+316,nd1S06312,Left,AD100,Female,/BXGRID/49/1177918.png,False,Clear-Lab
+317,nd1S06312,Left,AD100,Female,/BXGRID/50/1181890.png,False,Clear-Lab
+318,nd1S06312,Left,LG4000,Female,/BXGRID/50/1182855.png,False,Clear-Lab
+319,nd1S06312,Left,LG4000,Female,/BXGRID/50/1183072.png,False,Clear-Lab
+320,nd1S06312,Left,LG4000,Female,/BXGRID/50/1182837.png,False,Clear-Lab
+321,nd1S06312,Left,LG4000,Female,/BXGRID/49/1179115.png,False,Clear-Lab
+322,nd1S06312,Left,LG4000,Female,/BXGRID/50/1182893.png,False,Clear-Lab
+323,nd1S06312,Left,LG4000,Female,/BXGRID/49/1179155.png,False,Clear-Lab
+324,nd1S06345,Left,AD100,Male,/BXGRID/50/1181794.png,False,Clear-Lab
+325,nd1S06345,Left,AD100,Male,/BXGRID/49/1179558.png,False,Clear-Lab
+326,nd1S06345,Left,AD100,Male,/BXGRID/49/1179534.png,False,Clear-Lab
+327,nd1S06345,Left,AD100,Male,/BXGRID/49/1179636.png,False,Clear-Lab
+328,nd1S06345,Left,AD100,Male,/BXGRID/49/1179552.png,False,Clear-Lab
+329,nd1S06345,Left,AD100,Male,/BXGRID/50/1181730.png,False,Clear-Lab
+330,nd1S06000,Left,LG4000,Male,/BXGRID/49/1178359.png,False,Clear-Lab
+331,nd1S06000,Left,LG4000,Male,/BXGRID/50/1195240.png,False,Clear-Lab
+332,nd1S06000,Left,LG4000,Male,/BXGRID/50/1195248.png,False,Clear-Lab
+333,nd1S06000,Left,LG4000,Male,/BXGRID/49/1178345.png,False,Clear-Lab
+334,nd1S06000,Left,LG4000,Male,/BXGRID/49/1178325.png,False,Clear-Lab
+335,nd1S06000,Left,LG4000,Male,/BXGRID/49/1178138.png,False,Clear-Lab
+336,nd1S07015,Right,AD100,Female,/BXGRID/50/1190644.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+337,nd1S07015,Right,AD100,Female,/BXGRID/50/1190666.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+338,nd1S07015,Right,AD100,Female,/BXGRID/50/1190684.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+339,nd1S07015,Right,AD100,Female,/BXGRID/50/1189678.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+340,nd1S07015,Right,AD100,Female,/BXGRID/50/1189684.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+341,nd1S07015,Right,AD100,Female,/BXGRID/50/1190638.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+342,nd1S06312,Right,LG4000,Female,/BXGRID/50/1182815.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+343,nd1S06312,Right,LG4000,Female,/BXGRID/49/1179011.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+344,nd1S06312,Right,LG4000,Female,/BXGRID/50/1182805.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+345,nd1S06312,Right,LG4000,Female,/BXGRID/50/1182753.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+346,nd1S06312,Right,LG4000,Female,/BXGRID/49/1179041.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+347,nd1S06312,Right,LG4000,Female,/BXGRID/49/1179009.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+348,nd1S06000,Right,AD100,Male,/BXGRID/50/1191972.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+349,nd1S06000,Right,AD100,Male,/BXGRID/50/1191994.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+350,nd1S06000,Right,AD100,Male,/BXGRID/50/1192024.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+351,nd1S06000,Right,AD100,Male,/BXGRID/50/1192048.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+352,nd1S06000,Right,AD100,Male,/BXGRID/49/1177282.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+353,nd1S06000,Right,AD100,Male,/BXGRID/50/1192014.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+354,nd1S06345,Right,LG4000,Male,/BXGRID/50/1182293.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+355,nd1S06345,Right,LG4000,Male,/BXGRID/50/1182312.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+356,nd1S06345,Right,LG4000,Male,/BXGRID/50/1182332.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+357,nd1S06345,Right,LG4000,Male,/BXGRID/50/1182347.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+358,nd1S06345,Right,LG4000,Male,/BXGRID/50/1182285.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+359,nd1S06345,Right,LG4000,Male,/BXGRID/50/1182275.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+360,nd1S06312,Left,AD100,Female,/BXGRID/49/1177724.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+361,nd1S06312,Left,AD100,Female,/BXGRID/50/1181872.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+362,nd1S06312,Left,AD100,Female,/BXGRID/49/1177754.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+363,nd1S06312,Left,AD100,Female,/BXGRID/49/1177746.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+364,nd1S06312,Left,AD100,Female,/BXGRID/49/1177760.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+365,nd1S06312,Left,AD100,Female,/BXGRID/49/1177774.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+366,nd1S07015,Left,LG4000,Female,/BXGRID/50/1192420.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+367,nd1S07015,Left,LG4000,Female,/BXGRID/50/1192436.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+368,nd1S07015,Left,LG4000,Female,/BXGRID/50/1190076.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+369,nd1S07015,Left,LG4000,Female,/BXGRID/50/1192433.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+370,nd1S07015,Left,LG4000,Female,/BXGRID/50/1192435.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+371,nd1S07015,Left,LG4000,Female,/BXGRID/50/1192369.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+372,nd1S04261,Left,AD100,Male,/BXGRID/50/1190953.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+373,nd1S04261,Left,AD100,Male,/BXGRID/50/1190995.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+374,nd1S04261,Left,AD100,Male,/BXGRID/50/1190939.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+375,nd1S04261,Left,AD100,Male,/BXGRID/49/1177536.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+376,nd1S04261,Left,AD100,Male,/BXGRID/50/1190985.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+377,nd1S04261,Left,AD100,Male,/BXGRID/50/1190983.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+378,nd1S07013,Left,LG4000,Male,/BXGRID/50/1183179.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+379,nd1S07013,Left,LG4000,Male,/BXGRID/50/1183200.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+380,nd1S07013,Left,LG4000,Male,/BXGRID/50/1194087.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+381,nd1S07013,Left,LG4000,Male,/BXGRID/50/1194129.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+382,nd1S07013,Left,LG4000,Male,/BXGRID/50/1194094.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+383,nd1S07013,Left,LG4000,Male,/BXGRID/50/1183178.png,False,United-Contact-Lenses_Cool-Eyes-Opaque
+0,20,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_013_Right_L1_4.png,True,None
+1,20,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_013_Right_L1_1.png,True,None
+2,20,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_013_Right_R1_1.png,True,None
+3,20,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_013_Right_L2_1.png,True,None
+4,20,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_013_Right_R1_3.png,True,None
+5,20,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_013_Right_L1_3.png,True,None
+6,71,Right,AD100,Female,/ND3DIris/190503_123_AD100/2019_123_001_Right_L1_1.png,True,None
+7,71,Right,AD100,Female,/ND3DIris/190503_123_AD100/2019_123_001_Right_L2_0.png,True,None
+8,71,Right,AD100,Female,/ND3DIris/190503_123_AD100/2019_123_001_Right_R1_4.png,True,None
+9,71,Right,AD100,Female,/ND3DIris/190503_123_AD100/2019_123_001_Right_L2_1.png,True,None
+10,71,Right,AD100,Female,/ND3DIris/190503_123_AD100/2019_123_001_Right_R1_0.png,True,None
+11,71,Right,AD100,Female,/ND3DIris/190503_123_AD100/2019_123_001_Right_L1_3.png,True,None
+12,17,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_007_Right_R1_3.png,True,None
+13,17,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_007_Right_R1_0.png,True,None
+14,17,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_007_Right_L2_3.png,True,None
+15,17,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_007_Right_L1_1.png,True,None
+16,17,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_007_Right_L1_2.png,True,None
+17,17,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_007_Right_R1_2.png,True,None
+18,38,Right,LG4000,Female,/ND3DIris/190421_111_LG4000/2019-111-001-iris-right-cross-lg4000-3.png,True,None
+19,38,Right,LG4000,Female,/ND3DIris/190421_111_LG4000/2019-111-001-iris-right-cross-lg4000-0.png,True,None
+20,38,Right,LG4000,Female,/ND3DIris/190421_111_LG4000/2019-111-001-iris-right-cross-lg4000-2.png,True,None
+21,38,Right,LG4000,Female,/ND3DIris/190421_111_LG4000/2019-111-001-iris-right-direct-lg4000-2.png,True,None
+22,38,Right,LG4000,Female,/ND3DIris/190421_111_LG4000/2019-111-001-iris-right-direct-lg4000-4.png,True,None
+23,38,Right,LG4000,Female,/ND3DIris/190421_111_LG4000/2019-111-001-iris-right-cross-lg4000-1.png,True,None
+24,79,Right,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-009-iris-right-cross-lg4000-0.png,True,None
+25,79,Right,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-009-iris-right-direct-lg4000-0.png,True,None
+26,79,Right,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-009-iris-right-cross-lg4000-2.png,True,None
+27,79,Right,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-009-iris-right-direct-lg4000-1.png,True,None
+28,79,Right,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-009-iris-right-cross-lg4000-4.png,True,None
+29,79,Right,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-009-iris-right-cross-lg4000-3.png,True,None
+30,80,Right,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-011-iris-right-cross-lg4000-0.png,True,None
+31,80,Right,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-011-iris-right-direct-lg4000-1.png,True,None
+32,80,Right,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-011-iris-right-cross-lg4000-1.png,True,None
+33,80,Right,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-011-iris-right-cross-lg4000-3.png,True,None
+34,80,Right,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-011-iris-right-direct-lg4000-2.png,True,None
+35,80,Right,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-011-iris-right-cross-lg4000-4.png,True,None
+36,8,Left,AD100,Female,/ND3DIris/190416_106_AD100/2019_106_005_Left_R1_4.png,True,None
+37,8,Left,AD100,Female,/ND3DIris/190416_106_AD100/2019_106_005_Left_L1_0.png,True,None
+38,8,Left,AD100,Female,/ND3DIris/190416_106_AD100/2019_106_005_Left_R2_2.png,True,None
+39,8,Left,AD100,Female,/ND3DIris/190416_106_AD100/2019_106_005_Left_R1_2.png,True,None
+40,8,Left,AD100,Female,/ND3DIris/190416_106_AD100/2019_106_005_Left_R1_3.png,True,None
+41,8,Left,AD100,Female,/ND3DIris/190416_106_AD100/2019_106_005_Left_L1_3.png,True,None
+42,2,Left,AD100,Female,/ND3DIris/190412_102_AD100/2019_102_005_Left_L1_4.png,True,None
+43,2,Left,AD100,Female,/ND3DIris/190412_102_AD100/2019_102_005_Left_R2_1.png,True,None
+44,2,Left,AD100,Female,/ND3DIris/190412_102_AD100/2019_102_005_Left_R2_3.png,True,None
+45,2,Left,AD100,Female,/ND3DIris/190412_102_AD100/2019_102_005_Left_L1_2.png,True,None
+46,2,Left,AD100,Female,/ND3DIris/190412_102_AD100/2019_102_005_Left_L1_1.png,True,None
+47,2,Left,AD100,Female,/ND3DIris/190412_102_AD100/2019_102_005_Left_R1_1.png,True,None
+48,21,Left,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_015_Left_R1_4.png,True,None
+49,21,Left,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_015_Left_R2_2.png,True,None
+50,21,Left,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_015_Left_R1_2.png,True,None
+51,21,Left,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_015_Left_R1_3.png,True,None
+52,21,Left,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_015_Left_R2_1.png,True,None
+53,21,Left,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_015_Left_R1_1.png,True,None
+54,54,Left,LG4000,Female,/ND3DIris/190425_115_LG4000/2019-115-005-iris-left-cross-lg4000-2.png,True,None
+55,54,Left,LG4000,Female,/ND3DIris/190425_115_LG4000/2019-115-005-iris-left-cross-lg4000-3.png,True,None
+56,54,Left,LG4000,Female,/ND3DIris/190425_115_LG4000/2019-115-005-iris-left-cross-lg4000-1.png,True,None
+57,54,Left,LG4000,Female,/ND3DIris/190425_115_LG4000/2019-115-005-iris-left-cross-lg4000-0.png,True,None
+58,54,Left,LG4000,Female,/ND3DIris/190425_115_LG4000/2019-115-005-iris-left-direct-lg4000-1.png,True,None
+59,54,Left,LG4000,Female,/ND3DIris/190425_115_LG4000/2019-115-005-iris-left-direct-lg4000-4.png,True,None
+60,81,Left,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-013-iris-left-direct-lg4000-2.png,True,None
+61,81,Left,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-013-iris-left-direct-lg4000-4.png,True,None
+62,81,Left,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-013-iris-left-cross-lg4000-1.png,True,None
+63,81,Left,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-013-iris-left-direct-lg4000-1.png,True,None
+64,81,Left,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-013-iris-left-direct-lg4000-0.png,True,None
+65,81,Left,LG4000,Female,/ND3DIris/190510_130_LG4000/2019-130-013-iris-left-direct-lg4000-3.png,True,None
+66,25,Left,LG4000,Female,/ND3DIris/190418_108_LG4000/2019-108-005-iris-left-cross-lg4000-0.png,True,None
+67,25,Left,LG4000,Female,/ND3DIris/190418_108_LG4000/2019-108-005-iris-left-direct-lg4000-0.png,True,None
+68,25,Left,LG4000,Female,/ND3DIris/190418_108_LG4000/2019-108-005-iris-left-cross-lg4000-2.png,True,None
+69,25,Left,LG4000,Female,/ND3DIris/190418_108_LG4000/2019-108-005-iris-left-direct-lg4000-3.png,True,None
+70,25,Left,LG4000,Female,/ND3DIris/190418_108_LG4000/2019-108-005-iris-left-cross-lg4000-4.png,True,None
+71,25,Left,LG4000,Female,/ND3DIris/190418_108_LG4000/2019-108-005-iris-left-cross-lg4000-1.png,True,None
+72,45,Right,AD100,Male,/ND3DIris/190423_113_AD100/2019_113_003_Right_L2_1.png,True,None
+73,45,Right,AD100,Male,/ND3DIris/190423_113_AD100/2019_113_003_Right_L1_1.png,True,None
+74,45,Right,AD100,Male,/ND3DIris/190423_113_AD100/2019_113_003_Right_L2_4.png,True,None
+75,45,Right,AD100,Male,/ND3DIris/190423_113_AD100/2019_113_003_Right_L1_4.png,True,None
+76,45,Right,AD100,Male,/ND3DIris/190423_113_AD100/2019_113_003_Right_R1_1.png,True,None
+77,45,Right,AD100,Male,/ND3DIris/190423_113_AD100/2019_113_003_Right_L2_0.png,True,None
+78,11,Right,AD100,Male,/ND3DIris/190416_106_AD100/2019_106_011_Right_L1_3.png,True,None
+79,11,Right,AD100,Male,/ND3DIris/190416_106_AD100/2019_106_011_Right_L2_3.png,True,None
+80,11,Right,AD100,Male,/ND3DIris/190416_106_AD100/2019_106_011_Right_L1_4.png,True,None
+81,11,Right,AD100,Male,/ND3DIris/190416_106_AD100/2019_106_011_Right_R1_0.png,True,None
+82,11,Right,AD100,Male,/ND3DIris/190416_106_AD100/2019_106_011_Right_L2_2.png,True,None
+83,11,Right,AD100,Male,/ND3DIris/190416_106_AD100/2019_106_011_Right_L1_1.png,True,None
+84,39,Right,AD100,Male,/ND3DIris/190422_112_AD100/2019_112_001_Right_L2_2.png,True,None
+85,39,Right,AD100,Male,/ND3DIris/190422_112_AD100/2019_112_001_Right_R1_1.png,True,None
+86,39,Right,AD100,Male,/ND3DIris/190422_112_AD100/2019_112_001_Right_L2_4.png,True,None
+87,39,Right,AD100,Male,/ND3DIris/190422_112_AD100/2019_112_001_Right_L1_4.png,True,None
+88,39,Right,AD100,Male,/ND3DIris/190422_112_AD100/2019_112_001_Right_L2_0.png,True,None
+89,39,Right,AD100,Male,/ND3DIris/190422_112_AD100/2019_112_001_Right_L1_3.png,True,None
+90,87,Right,LG4000,Male,/ND3DIris/190516_136_LG4000/2019-136-007-iris-right-cross-lg4000-0.png,True,None
+91,87,Right,LG4000,Male,/ND3DIris/190516_136_LG4000/2019-136-007-iris-right-cross-lg4000-2.png,True,None
+92,87,Right,LG4000,Male,/ND3DIris/190516_136_LG4000/2019-136-007-iris-right-cross-lg4000-1.png,True,None
+93,87,Right,LG4000,Male,/ND3DIris/190516_136_LG4000/2019-136-007-iris-right-cross-lg4000-4.png,True,None
+94,87,Right,LG4000,Male,/ND3DIris/190516_136_LG4000/2019-136-007-iris-right-direct-lg4000-0.png,True,None
+95,87,Right,LG4000,Male,/ND3DIris/190516_136_LG4000/2019-136-007-iris-right-direct-lg4000-4.png,True,None
+96,84,Right,LG4000,Male,/ND3DIris/190516_136_LG4000/2019-136-001-iris-right-cross-lg4000-2.png,True,None
+97,84,Right,LG4000,Male,/ND3DIris/190516_136_LG4000/2019-136-001-iris-right-direct-lg4000-4.png,True,None
+98,84,Right,LG4000,Male,/ND3DIris/190516_136_LG4000/2019-136-001-iris-right-cross-lg4000-1.png,True,None
+99,84,Right,LG4000,Male,/ND3DIris/190516_136_LG4000/2019-136-001-iris-right-direct-lg4000-3.png,True,None
+100,84,Right,LG4000,Male,/ND3DIris/190516_136_LG4000/2019-136-001-iris-right-cross-lg4000-3.png,True,None
+101,84,Right,LG4000,Male,/ND3DIris/190516_136_LG4000/2019-136-001-iris-right-direct-lg4000-0.png,True,None
+102,31,Right,LG4000,Male,/ND3DIris/190418_108_LG4000/2019-108-017-iris-right-cross-lg4000-0.png,True,None
+103,31,Right,LG4000,Male,/ND3DIris/190418_108_LG4000/2019-108-017-iris-right-cross-lg4000-4.png,True,None
+104,31,Right,LG4000,Male,/ND3DIris/190418_108_LG4000/2019-108-017-iris-right-cross-lg4000-2.png,True,None
+105,31,Right,LG4000,Male,/ND3DIris/190418_108_LG4000/2019-108-017-iris-right-cross-lg4000-3.png,True,None
+106,31,Right,LG4000,Male,/ND3DIris/190418_108_LG4000/2019-108-017-iris-right-direct-lg4000-4.png,True,None
+107,31,Right,LG4000,Male,/ND3DIris/190418_108_LG4000/2019-108-017-iris-right-direct-lg4000-2.png,True,None
+108,46,Left,AD100,Male,/ND3DIris/190423_113_AD100/2019_113_005_Left_R2_3.png,True,None
+109,46,Left,AD100,Male,/ND3DIris/190423_113_AD100/2019_113_005_Left_R1_1.png,True,None
+110,46,Left,AD100,Male,/ND3DIris/190423_113_AD100/2019_113_005_Left_L1_2.png,True,None
+111,46,Left,AD100,Male,/ND3DIris/190423_113_AD100/2019_113_005_Left_R2_2.png,True,None
+112,46,Left,AD100,Male,/ND3DIris/190423_113_AD100/2019_113_005_Left_L1_3.png,True,None
+113,46,Left,AD100,Male,/ND3DIris/190423_113_AD100/2019_113_005_Left_R2_1.png,True,None
+114,14,Left,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_001_Left_R2_4.png,True,None
+115,14,Left,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_001_Left_R1_0.png,True,None
+116,14,Left,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_001_Left_R1_2.png,True,None
+117,14,Left,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_001_Left_R2_0.png,True,None
+118,14,Left,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_001_Left_R2_2.png,True,None
+119,14,Left,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_001_Left_L1_4.png,True,None
+120,18,Left,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_009_Left_R1_1.png,True,None
+121,18,Left,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_009_Left_R2_0.png,True,None
+122,18,Left,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_009_Left_L1_1.png,True,None
+123,18,Left,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_009_Left_L1_0.png,True,None
+124,18,Left,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_009_Left_L1_3.png,True,None
+125,18,Left,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_009_Left_R2_4.png,True,None
+126,0,Left,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-001-iris-left-direct-lg4000-1.png,True,None
+127,0,Left,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-001-iris-left-cross-lg4000-2.png,True,None
+128,0,Left,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-001-iris-left-direct-lg4000-2.png,True,None
+129,0,Left,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-001-iris-left-cross-lg4000-0.png,True,None
+130,0,Left,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-001-iris-left-cross-lg4000-1.png,True,None
+131,0,Left,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-001-iris-left-direct-lg4000-0.png,True,None
+132,12,Left,LG4000,Male,/ND3DIris/190416_106_LG4000/2019-106-013-iris-left-direct-lg4000-2.png,True,None
+133,12,Left,LG4000,Male,/ND3DIris/190416_106_LG4000/2019-106-013-iris-left-direct-lg4000-3.png,True,None
+134,12,Left,LG4000,Male,/ND3DIris/190416_106_LG4000/2019-106-013-iris-left-direct-lg4000-1.png,True,None
+135,12,Left,LG4000,Male,/ND3DIris/190416_106_LG4000/2019-106-013-iris-left-cross-lg4000-4.png,True,None
+136,12,Left,LG4000,Male,/ND3DIris/190416_106_LG4000/2019-106-013-iris-left-cross-lg4000-3.png,True,None
+137,12,Left,LG4000,Male,/ND3DIris/190416_106_LG4000/2019-106-013-iris-left-cross-lg4000-1.png,True,None
+138,19,Left,LG4000,Male,/ND3DIris/190417_107_LG4000/2019-107-011-iris-left-cross-lg4000-4.png,True,None
+139,19,Left,LG4000,Male,/ND3DIris/190417_107_LG4000/2019-107-011-iris-left-direct-lg4000-4.png,True,None
+140,19,Left,LG4000,Male,/ND3DIris/190417_107_LG4000/2019-107-011-iris-left-direct-lg4000-3.png,True,None
+141,19,Left,LG4000,Male,/ND3DIris/190417_107_LG4000/2019-107-011-iris-left-direct-lg4000-2.png,True,None
+142,19,Left,LG4000,Male,/ND3DIris/190417_107_LG4000/2019-107-011-iris-left-direct-lg4000-0.png,True,None
+143,19,Left,LG4000,Male,/ND3DIris/190417_107_LG4000/2019-107-011-iris-left-cross-lg4000-1.png,True,None
+144,16,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_006_Right_L1_1.png,False,Freshlook One-Day
+145,16,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_006_Right_L2_0.png,False,Freshlook One-Day
+146,16,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_006_Right_L2_2.png,False,Freshlook One-Day
+147,16,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_006_Right_L1_4.png,False,Freshlook One-Day
+148,16,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_006_Right_L2_1.png,False,Freshlook One-Day
+149,16,Right,AD100,Female,/ND3DIris/190417_107_AD100/2019_107_006_Right_L1_3.png,False,Freshlook One-Day
+150,62,Right,LG4000,Female,/ND3DIris/190429_119_LG4000/2019-119-006-iris-right-direct-lg4000-2.png,False,Freshlook One-Day
+151,62,Right,LG4000,Female,/ND3DIris/190429_119_LG4000/2019-119-006-iris-right-direct-lg4000-4.png,False,Freshlook One-Day
+152,62,Right,LG4000,Female,/ND3DIris/190429_119_LG4000/2019-119-006-iris-right-cross-lg4000-0.png,False,Freshlook One-Day
+153,62,Right,LG4000,Female,/ND3DIris/190429_119_LG4000/2019-119-006-iris-right-direct-lg4000-1.png,False,Freshlook One-Day
+154,62,Right,LG4000,Female,/ND3DIris/190429_119_LG4000/2019-119-006-iris-right-cross-lg4000-2.png,False,Freshlook One-Day
+155,62,Right,LG4000,Female,/ND3DIris/190429_119_LG4000/2019-119-006-iris-right-cross-lg4000-1.png,False,Freshlook One-Day
+156,34,Right,AD100,Male,/ND3DIris/190419_109_AD100/2019_109_004_Right_L2_1.png,False,Freshlook One-Day
+157,34,Right,AD100,Male,/ND3DIris/190419_109_AD100/2019_109_004_Right_R1_4.png,False,Freshlook One-Day
+158,34,Right,AD100,Male,/ND3DIris/190419_109_AD100/2019_109_004_Right_L1_4.png,False,Freshlook One-Day
+159,34,Right,AD100,Male,/ND3DIris/190419_109_AD100/2019_109_004_Right_L1_2.png,False,Freshlook One-Day
+160,34,Right,AD100,Male,/ND3DIris/190419_109_AD100/2019_109_004_Right_R1_0.png,False,Freshlook One-Day
+161,34,Right,AD100,Male,/ND3DIris/190419_109_AD100/2019_109_004_Right_L1_1.png,False,Freshlook One-Day
+162,3,Right,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-008-iris-right-cross-lg4000-1.png,False,Freshlook One-Day
+163,3,Right,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-008-iris-right-direct-lg4000-1.png,False,Freshlook One-Day
+164,3,Right,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-008-iris-right-direct-lg4000-3.png,False,Freshlook One-Day
+165,3,Right,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-008-iris-right-cross-lg4000-0.png,False,Freshlook One-Day
+166,3,Right,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-008-iris-right-direct-lg4000-4.png,False,Freshlook One-Day
+167,3,Right,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-008-iris-right-direct-lg4000-2.png,False,Freshlook One-Day
+168,28,Left,AD100,Female,/ND3DIris/190418_108_AD100/2019_108_012_Left_R1_0.png,False,Freshlook One-Day
+169,28,Left,AD100,Female,/ND3DIris/190418_108_AD100/2019_108_012_Left_R1_3.png,False,Freshlook One-Day
+170,28,Left,AD100,Female,/ND3DIris/190418_108_AD100/2019_108_012_Left_L1_2.png,False,Freshlook One-Day
+171,28,Left,AD100,Female,/ND3DIris/190418_108_AD100/2019_108_012_Left_R1_4.png,False,Freshlook One-Day
+172,28,Left,AD100,Female,/ND3DIris/190418_108_AD100/2019_108_012_Left_L1_1.png,False,Freshlook One-Day
+173,28,Left,AD100,Female,/ND3DIris/190418_108_AD100/2019_108_012_Left_R2_0.png,False,Freshlook One-Day
+174,29,Left,LG4000,Female,/ND3DIris/190418_108_LG4000/2019-108-014-iris-left-cross-lg4000-2.png,False,Freshlook One-Day
+175,29,Left,LG4000,Female,/ND3DIris/190418_108_LG4000/2019-108-014-iris-left-direct-lg4000-0.png,False,Freshlook One-Day
+176,29,Left,LG4000,Female,/ND3DIris/190418_108_LG4000/2019-108-014-iris-left-cross-lg4000-3.png,False,Freshlook One-Day
+177,29,Left,LG4000,Female,/ND3DIris/190418_108_LG4000/2019-108-014-iris-left-direct-lg4000-3.png,False,Freshlook One-Day
+178,29,Left,LG4000,Female,/ND3DIris/190418_108_LG4000/2019-108-014-iris-left-direct-lg4000-2.png,False,Freshlook One-Day
+179,29,Left,LG4000,Female,/ND3DIris/190418_108_LG4000/2019-108-014-iris-left-direct-lg4000-4.png,False,Freshlook One-Day
+180,39,Left,AD100,Male,/ND3DIris/190422_112_AD100/2019_112_002_Left_L1_0.png,False,Freshlook One-Day
+181,39,Left,AD100,Male,/ND3DIris/190422_112_AD100/2019_112_002_Left_R2_0.png,False,Freshlook One-Day
+182,39,Left,AD100,Male,/ND3DIris/190422_112_AD100/2019_112_002_Left_R1_0.png,False,Freshlook One-Day
+183,39,Left,AD100,Male,/ND3DIris/190422_112_AD100/2019_112_002_Left_R2_2.png,False,Freshlook One-Day
+184,39,Left,AD100,Male,/ND3DIris/190422_112_AD100/2019_112_002_Left_R1_4.png,False,Freshlook One-Day
+185,39,Left,AD100,Male,/ND3DIris/190422_112_AD100/2019_112_002_Left_R2_1.png,False,Freshlook One-Day
+186,18,Left,LG4000,Male,/ND3DIris/190417_107_LG4000/2019-107-010-iris-left-cross-lg4000-2.png,False,Freshlook One-Day
+187,18,Left,LG4000,Male,/ND3DIris/190417_107_LG4000/2019-107-010-iris-left-direct-lg4000-1.png,False,Freshlook One-Day
+188,18,Left,LG4000,Male,/ND3DIris/190417_107_LG4000/2019-107-010-iris-left-cross-lg4000-1.png,False,Freshlook One-Day
+189,18,Left,LG4000,Male,/ND3DIris/190417_107_LG4000/2019-107-010-iris-left-cross-lg4000-4.png,False,Freshlook One-Day
+190,18,Left,LG4000,Male,/ND3DIris/190417_107_LG4000/2019-107-010-iris-left-cross-lg4000-0.png,False,Freshlook One-Day
+191,18,Left,LG4000,Male,/ND3DIris/190417_107_LG4000/2019-107-010-iris-left-direct-lg4000-4.png,False,Freshlook One-Day
+192,37,Right,AD100,Female,/ND3DIris/190420_110_AD100/2019_110_004_Right_L1_0.png,False,Johnson&Johnson Acuvue Define
+193,37,Right,AD100,Female,/ND3DIris/190420_110_AD100/2019_110_004_Right_R1_1.png,False,Johnson&Johnson Acuvue Define
+194,37,Right,AD100,Female,/ND3DIris/190420_110_AD100/2019_110_004_Right_R1_2.png,False,Johnson&Johnson Acuvue Define
+195,37,Right,AD100,Female,/ND3DIris/190420_110_AD100/2019_110_004_Right_L2_4.png,False,Johnson&Johnson Acuvue Define
+196,37,Right,AD100,Female,/ND3DIris/190420_110_AD100/2019_110_004_Right_L1_2.png,False,Johnson&Johnson Acuvue Define
+197,37,Right,AD100,Female,/ND3DIris/190420_110_AD100/2019_110_004_Right_L2_3.png,False,Johnson&Johnson Acuvue Define
+198,82,Right,LG4000,Female,/ND3DIris/190514_134_LG4000/2019-134-002-iris-right-cross-lg4000-2.png,False,Johnson&Johnson Acuvue Define
+199,82,Right,LG4000,Female,/ND3DIris/190514_134_LG4000/2019-134-002-iris-right-cross-lg4000-4.png,False,Johnson&Johnson Acuvue Define
+200,82,Right,LG4000,Female,/ND3DIris/190514_134_LG4000/2019-134-002-iris-right-cross-lg4000-3.png,False,Johnson&Johnson Acuvue Define
+201,82,Right,LG4000,Female,/ND3DIris/190514_134_LG4000/2019-134-002-iris-right-cross-lg4000-0.png,False,Johnson&Johnson Acuvue Define
+202,82,Right,LG4000,Female,/ND3DIris/190514_134_LG4000/2019-134-002-iris-right-direct-lg4000-2.png,False,Johnson&Johnson Acuvue Define
+203,82,Right,LG4000,Female,/ND3DIris/190514_134_LG4000/2019-134-002-iris-right-direct-lg4000-1.png,False,Johnson&Johnson Acuvue Define
+204,19,Right,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_012_Right_L1_0.png,False,Johnson&Johnson Acuvue Define
+205,19,Right,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_012_Right_L1_3.png,False,Johnson&Johnson Acuvue Define
+206,19,Right,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_012_Right_R1_2.png,False,Johnson&Johnson Acuvue Define
+207,19,Right,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_012_Right_L2_3.png,False,Johnson&Johnson Acuvue Define
+208,19,Right,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_012_Right_L1_1.png,False,Johnson&Johnson Acuvue Define
+209,19,Right,AD100,Male,/ND3DIris/190417_107_AD100/2019_107_012_Right_L2_1.png,False,Johnson&Johnson Acuvue Define
+210,26,Right,LG4000,Male,/ND3DIris/190418_108_LG4000/2019-108-008-iris-right-direct-lg4000-2.png,False,Johnson&Johnson Acuvue Define
+211,26,Right,LG4000,Male,/ND3DIris/190418_108_LG4000/2019-108-008-iris-right-direct-lg4000-3.png,False,Johnson&Johnson Acuvue Define
+212,26,Right,LG4000,Male,/ND3DIris/190418_108_LG4000/2019-108-008-iris-right-cross-lg4000-4.png,False,Johnson&Johnson Acuvue Define
+213,26,Right,LG4000,Male,/ND3DIris/190418_108_LG4000/2019-108-008-iris-right-cross-lg4000-2.png,False,Johnson&Johnson Acuvue Define
+214,26,Right,LG4000,Male,/ND3DIris/190418_108_LG4000/2019-108-008-iris-right-cross-lg4000-1.png,False,Johnson&Johnson Acuvue Define
+215,26,Right,LG4000,Male,/ND3DIris/190418_108_LG4000/2019-108-008-iris-right-cross-lg4000-3.png,False,Johnson&Johnson Acuvue Define
+216,1,Left,AD100,Female,/ND3DIris/190412_102_AD100/2019_102_004_Left_L1_0.png,False,Johnson&Johnson Acuvue Define
+217,1,Left,AD100,Female,/ND3DIris/190412_102_AD100/2019_102_004_Left_L1_4.png,False,Johnson&Johnson Acuvue Define
+218,1,Left,AD100,Female,/ND3DIris/190412_102_AD100/2019_102_004_Left_R1_3.png,False,Johnson&Johnson Acuvue Define
+219,1,Left,AD100,Female,/ND3DIris/190412_102_AD100/2019_102_004_Left_R2_3.png,False,Johnson&Johnson Acuvue Define
+220,1,Left,AD100,Female,/ND3DIris/190412_102_AD100/2019_102_004_Left_R1_1.png,False,Johnson&Johnson Acuvue Define
+221,1,Left,AD100,Female,/ND3DIris/190412_102_AD100/2019_102_004_Left_R1_0.png,False,Johnson&Johnson Acuvue Define
+222,21,Left,LG4000,Female,/ND3DIris/190417_107_LG4000/2019-107-016-iris-left-cross-lg4000-3.png,False,Johnson&Johnson Acuvue Define
+223,21,Left,LG4000,Female,/ND3DIris/190417_107_LG4000/2019-107-016-iris-left-direct-lg4000-0.png,False,Johnson&Johnson Acuvue Define
+224,21,Left,LG4000,Female,/ND3DIris/190417_107_LG4000/2019-107-016-iris-left-cross-lg4000-2.png,False,Johnson&Johnson Acuvue Define
+225,21,Left,LG4000,Female,/ND3DIris/190417_107_LG4000/2019-107-016-iris-left-cross-lg4000-1.png,False,Johnson&Johnson Acuvue Define
+226,21,Left,LG4000,Female,/ND3DIris/190417_107_LG4000/2019-107-016-iris-left-direct-lg4000-1.png,False,Johnson&Johnson Acuvue Define
+227,21,Left,LG4000,Female,/ND3DIris/190417_107_LG4000/2019-107-016-iris-left-direct-lg4000-3.png,False,Johnson&Johnson Acuvue Define
+228,64,Left,AD100,Male,/ND3DIris/190430_120_AD100/2019_120_004_Left_R1_2.png,False,Johnson&Johnson Acuvue Define
+229,64,Left,AD100,Male,/ND3DIris/190430_120_AD100/2019_120_004_Left_L1_4.png,False,Johnson&Johnson Acuvue Define
+230,64,Left,AD100,Male,/ND3DIris/190430_120_AD100/2019_120_004_Left_L1_3.png,False,Johnson&Johnson Acuvue Define
+231,64,Left,AD100,Male,/ND3DIris/190430_120_AD100/2019_120_004_Left_R1_0.png,False,Johnson&Johnson Acuvue Define
+232,64,Left,AD100,Male,/ND3DIris/190430_120_AD100/2019_120_004_Left_R2_3.png,False,Johnson&Johnson Acuvue Define
+233,64,Left,AD100,Male,/ND3DIris/190430_120_AD100/2019_120_004_Left_R2_2.png,False,Johnson&Johnson Acuvue Define
+234,3,Left,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-006-iris-left-cross-lg4000-4.png,False,Johnson&Johnson Acuvue Define
+235,3,Left,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-006-iris-left-cross-lg4000-3.png,False,Johnson&Johnson Acuvue Define
+236,3,Left,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-006-iris-left-cross-lg4000-2.png,False,Johnson&Johnson Acuvue Define
+237,3,Left,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-006-iris-left-direct-lg4000-1.png,False,Johnson&Johnson Acuvue Define
+238,3,Left,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-006-iris-left-cross-lg4000-0.png,False,Johnson&Johnson Acuvue Define
+239,3,Left,LG4000,Male,/ND3DIris/190412_102_LG4000/2019-102-006-iris-left-direct-lg4000-0.png,False,Johnson&Johnson Acuvue Define
+240,77,Right,AD100,Female,/ND3DIris/190510_130_AD100/2019_130_006_Right_L1_2.png,False,Freshlook Colorblends
+241,77,Right,AD100,Female,/ND3DIris/190510_130_AD100/2019_130_006_Right_R1_0.png,False,Freshlook Colorblends
+242,77,Right,AD100,Female,/ND3DIris/190510_130_AD100/2019_130_006_Right_R1_2.png,False,Freshlook Colorblends
+243,77,Right,AD100,Female,/ND3DIris/190510_130_AD100/2019_130_006_Right_L2_0.png,False,Freshlook Colorblends
+244,77,Right,AD100,Female,/ND3DIris/190510_130_AD100/2019_130_006_Right_L2_2.png,False,Freshlook Colorblends
+245,77,Right,AD100,Female,/ND3DIris/190510_130_AD100/2019_130_006_Right_R1_3.png,False,Freshlook Colorblends
+246,41,Right,LG4000,Female,/ND3DIris/190422_112_LG4000/2019-112-006-iris-right-direct-lg4000-3.png,False,Freshlook Colorblends
+247,41,Right,LG4000,Female,/ND3DIris/190422_112_LG4000/2019-112-006-iris-right-direct-lg4000-4.png,False,Freshlook Colorblends
+248,41,Right,LG4000,Female,/ND3DIris/190422_112_LG4000/2019-112-006-iris-right-direct-lg4000-0.png,False,Freshlook Colorblends
+249,41,Right,LG4000,Female,/ND3DIris/190422_112_LG4000/2019-112-006-iris-right-direct-lg4000-1.png,False,Freshlook Colorblends
+250,41,Right,LG4000,Female,/ND3DIris/190422_112_LG4000/2019-112-006-iris-right-cross-lg4000-3.png,False,Freshlook Colorblends
+251,41,Right,LG4000,Female,/ND3DIris/190422_112_LG4000/2019-112-006-iris-right-cross-lg4000-2.png,False,Freshlook Colorblends
+252,53,Right,AD100,Male,/ND3DIris/190425_115_AD100/2019_115_004_Right_L1_2.png,False,Freshlook Colorblends
+253,53,Right,AD100,Male,/ND3DIris/190425_115_AD100/2019_115_004_Right_R1_3.png,False,Freshlook Colorblends
+254,53,Right,AD100,Male,/ND3DIris/190425_115_AD100/2019_115_004_Right_L1_1.png,False,Freshlook Colorblends
+255,53,Right,AD100,Male,/ND3DIris/190425_115_AD100/2019_115_004_Right_R1_2.png,False,Freshlook Colorblends
+256,53,Right,AD100,Male,/ND3DIris/190425_115_AD100/2019_115_004_Right_L2_0.png,False,Freshlook Colorblends
+257,53,Right,AD100,Male,/ND3DIris/190425_115_AD100/2019_115_004_Right_L2_2.png,False,Freshlook Colorblends
+258,53,Right,LG4000,Male,/ND3DIris/190425_115_LG4000/2019-115-004-iris-right-direct-lg4000-0.png,False,Freshlook Colorblends
+259,53,Right,LG4000,Male,/ND3DIris/190425_115_LG4000/2019-115-004-iris-right-cross-lg4000-4.png,False,Freshlook Colorblends
+260,53,Right,LG4000,Male,/ND3DIris/190425_115_LG4000/2019-115-004-iris-right-cross-lg4000-1.png,False,Freshlook Colorblends
+261,53,Right,LG4000,Male,/ND3DIris/190425_115_LG4000/2019-115-004-iris-right-cross-lg4000-3.png,False,Freshlook Colorblends
+262,53,Right,LG4000,Male,/ND3DIris/190425_115_LG4000/2019-115-004-iris-right-cross-lg4000-2.png,False,Freshlook Colorblends
+263,53,Right,LG4000,Male,/ND3DIris/190425_115_LG4000/2019-115-004-iris-right-direct-lg4000-1.png,False,Freshlook Colorblends
+264,41,Left,AD100,Female,/ND3DIris/190422_112_AD100/2019_112_006_Left_R2_3.png,False,Freshlook Colorblends
+265,41,Left,AD100,Female,/ND3DIris/190422_112_AD100/2019_112_006_Left_R2_1.png,False,Freshlook Colorblends
+266,41,Left,AD100,Female,/ND3DIris/190422_112_AD100/2019_112_006_Left_R2_0.png,False,Freshlook Colorblends
+267,41,Left,AD100,Female,/ND3DIris/190422_112_AD100/2019_112_006_Left_L1_1.png,False,Freshlook Colorblends
+268,41,Left,AD100,Female,/ND3DIris/190422_112_AD100/2019_112_006_Left_R1_4.png,False,Freshlook Colorblends
+269,41,Left,AD100,Female,/ND3DIris/190422_112_AD100/2019_112_006_Left_R1_0.png,False,Freshlook Colorblends
+270,67,Left,LG4000,Female,/ND3DIris/190430_120_LG4000/2019-120-010-iris-left-direct-lg4000-0.png,False,Freshlook Colorblends
+271,67,Left,LG4000,Female,/ND3DIris/190430_120_LG4000/2019-120-010-iris-left-cross-lg4000-4.png,False,Freshlook Colorblends
+272,67,Left,LG4000,Female,/ND3DIris/190430_120_LG4000/2019-120-010-iris-left-direct-lg4000-3.png,False,Freshlook Colorblends
+273,67,Left,LG4000,Female,/ND3DIris/190430_120_LG4000/2019-120-010-iris-left-cross-lg4000-3.png,False,Freshlook Colorblends
+274,67,Left,LG4000,Female,/ND3DIris/190430_120_LG4000/2019-120-010-iris-left-direct-lg4000-1.png,False,Freshlook Colorblends
+275,67,Left,LG4000,Female,/ND3DIris/190430_120_LG4000/2019-120-010-iris-left-cross-lg4000-1.png,False,Freshlook Colorblends
+276,7,Left,AD100,Male,/ND3DIris/190416_106_AD100/2019_106_004_Left_L1_2.png,False,Freshlook Colorblends
+277,7,Left,AD100,Male,/ND3DIris/190416_106_AD100/2019_106_004_Left_L1_1.png,False,Freshlook Colorblends
+278,7,Left,AD100,Male,/ND3DIris/190416_106_AD100/2019_106_004_Left_R1_1.png,False,Freshlook Colorblends
+279,7,Left,AD100,Male,/ND3DIris/190416_106_AD100/2019_106_004_Left_L1_0.png,False,Freshlook Colorblends
+280,7,Left,AD100,Male,/ND3DIris/190416_106_AD100/2019_106_004_Left_R2_2.png,False,Freshlook Colorblends
+281,7,Left,AD100,Male,/ND3DIris/190416_106_AD100/2019_106_004_Left_R1_0.png,False,Freshlook Colorblends
+282,53,Left,LG4000,Male,/ND3DIris/190425_115_LG4000/2019-115-004-iris-left-cross-lg4000-3.png,False,Freshlook Colorblends
+283,53,Left,LG4000,Male,/ND3DIris/190425_115_LG4000/2019-115-004-iris-left-cross-lg4000-4.png,False,Freshlook Colorblends
+284,53,Left,LG4000,Male,/ND3DIris/190425_115_LG4000/2019-115-004-iris-left-cross-lg4000-0.png,False,Freshlook Colorblends
+285,53,Left,LG4000,Male,/ND3DIris/190425_115_LG4000/2019-115-004-iris-left-direct-lg4000-4.png,False,Freshlook Colorblends
+286,53,Left,LG4000,Male,/ND3DIris/190425_115_LG4000/2019-115-004-iris-left-direct-lg4000-0.png,False,Freshlook Colorblends
+287,53,Left,LG4000,Male,/ND3DIris/190425_115_LG4000/2019-115-004-iris-left-cross-lg4000-1.png,False,Freshlook Colorblends
